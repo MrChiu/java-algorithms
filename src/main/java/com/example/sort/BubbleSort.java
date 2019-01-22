@@ -5,7 +5,9 @@ package com.example.sort;
  * @description: 冒泡排序
  * 平均O(n^2),
  * 最好O(n),
- * 最坏O(n^2);空间复杂度O(1);稳定;简单
+ * 最坏O(n^2);
+ * 空间复杂度O(1);
+ * 稳定;简单
  * @date: Created in 15:34 2019-01-21
  */
 public class BubbleSort {
